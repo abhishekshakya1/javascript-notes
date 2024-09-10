@@ -32,9 +32,10 @@ let student = {
 };
 
 const myFunction = function() {
-    console.log("Hello World");
-    
+    console.log("Hello World"); 
 }
+
+myFunction();
 console.log(heroes, student);
 console.log(typeof (heroes), typeof (student), typeof (myFunction));
 
