@@ -74,7 +74,7 @@ let gameCounter = 100
 console.log(gameCounter);
 
 // link to study 
-   https://tc39.es/ecma262/multipge/abstract-operations.html#sec-type-conversion
+  // https://tc39.es/ecma262/multipge/abstract-operations.html#sec-type-conversion
 
 
 
