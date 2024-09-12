@@ -7,7 +7,7 @@ const course = {
 // course.courseInstructor
 
 const {courseInstructor: instructor} = course
-console.log(courseInstructor);
+// console.log(courseInstructor);
 console.log(instructor);
 
 
@@ -19,11 +19,11 @@ console.log(instructor);
 
 
 
-{
-    "name": "abhishek",
-    "coursename": "js in hindi",
-    "price": "free"
-}
+// {
+//     "name": "abhishek",
+//     "coursename": "js in hindi",
+//     "price": "free"
+// }
 
 [
     {},
